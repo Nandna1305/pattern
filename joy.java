@@ -1,5 +1,6 @@
 public class joy 
 {
+    //program for inverted left half pyramid
     public static void main(String args[])
     {
         for (int i=1;i<=5;i++)
