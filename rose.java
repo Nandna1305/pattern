@@ -1,5 +1,6 @@
 public class rose 
 {
+    //program to print rhombus pattern
     public static void main (String args[]) 
     {
         //inner loop is for managing the no.of.columns and for creating required spaces
